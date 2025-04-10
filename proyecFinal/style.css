@@ -14,7 +14,6 @@ html {
     padding: 2em;
     display: inline;
     margin: auto;
-    
 }
 
 .text-logo {
@@ -24,7 +23,6 @@ html {
 .backmenu {
     background-color: rgb(0, 113, 65);
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     margin: 0% 1% 0% 1%;
     padding: 1em;
