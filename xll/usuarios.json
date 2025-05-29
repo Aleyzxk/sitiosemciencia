@@ -1,0 +1,73 @@
+[
+  {
+    "nombre": "ale",
+    "email": "aleshuerta09@gmail.com",
+    "password": "apochasa1"
+  },
+  {
+    "nombre": "20",
+    "email": "alfredo@hotmail.com",
+    "password": "apoca"
+  },
+  {
+    "nombre": "alejandro",
+    "email": "Huerta@gmail.com",
+    "password": "popo"
+  },
+  {
+    "nombre": "alejandro",
+    "email": "huert@gmail.com",
+    "password": "porno"
+  },
+  {
+    "nombre": "alejandro",
+    "email": "aleshuerta09@gmail.com",
+    "password": "hoka"
+  },
+  {
+    "nombre": "alejandro",
+    "email": "aleshuerta09@gmail.com",
+    "password": "apochasa1"
+  },
+  {
+    "nombre": "aleshuerta",
+    "email": "aleshuerta99@gmail.com",
+    "password": "apopopo"
+  },
+  {
+    "nombre": "alejandro",
+    "email": "alejandro.huerta80@uabc.edu.mx",
+    "password": "apochas1",
+    "carrera": "lic Ciencia De Datos"
+  },
+  {
+    "nombre": "alejandro",
+    "email": "alejandro.huerta80@uabc.edu.mx",
+    "actividad": "Obra De Teatro",
+    "carrera": "lic Ciencia De Datos"
+  },
+  {
+    "nombre": "fernando",
+    "email": "fernando@gmail.com",
+    "actividad": "Conferencia",
+    "carrera": "Lic Ciencias Computacionales"
+  },
+  {
+    "nombre": "alejandro",
+    "email": "huertapime@gmail.com",
+    "actividad": "Conferencia",
+    "carrera": "Lic Fisica"
+  },
+  {
+    "nombre": "alejanador",
+    "email": "alskdasd@gmail.com",
+    "actividad": "Conferencia",
+    "carrera": "Lic Biologia"
+  },
+  {
+    "nombre": "alejandro",
+    "email": "alejandro.huerta@gmial.com",
+    "actividad": "Talleres",
+    "carrera": "lic Ciencia De Datos"
+  }
+]

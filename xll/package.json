@@ -1,0 +1,25 @@
+{
+  "name": "xlii",
+  "version": "1.0.0",
+  "description": "servidor local",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleyzxk/XLII.git"
+  },
+  "author": "ale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleyzxk/XLII/issues"
+  },
+  "homepage": "https://github.com/Aleyzxk/XLII#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "pdfkit": "^0.17.1"
+  }
+}

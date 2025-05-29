@@ -1,0 +1,84 @@
+html{
+    font-size: 16px;
+}
+body{
+    margin: 0;
+}
+
+.contenedor-principal{
+    background-image: url('../img/img-fondo/img-fondo2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;  
+    padding: 30px;
+}
+
+.contenedor{
+    width: 100vw;
+    background-color: rgb(68, 115, 68);
+    position: absolute;
+}
+
+.conteiner{
+    margin: 10px 0px 0px 0px;
+    background-color: rgb(255, 245, 203);
+}
+
+.front-title{
+    text-align: center;
+    font-size: 5vw;
+    color: black;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+.front-title:first-child{
+    font-size: 1.5vw;
+}
+.front-subtitle{
+    color: black;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5vw;
+    text-align: center;
+}
+.line{
+    background-color: rgb(255, 244, 198);
+    padding: 12px;
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+    font-size: 3vw;
+    color: black;
+    font-weight: 600;
+}
+.actividades-text{
+    padding: 1%;
+}
+.cont-actividades{
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+.footer{
+    position: sticky;
+}
+.imagenes{
+    width: 5vw;
+    height: auto;
+}
+a{
+    text-decoration: none;
+}
+.font-white{
+    color: beige;
+}
+
+/* Mostrar dropdown al hacer hover sobre el nav-link */
+.nav-item.dropdown:hover > .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+
+    /* Opcional: mejora visual */
+.dropdown-menu {
+  transition: all 0.2s ease;
+}
